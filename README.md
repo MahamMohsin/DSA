@@ -21,6 +21,6 @@ Contains categorized problems for self-improvement and concept revision:
 - Solutions may include C++ implementations (without STL as per preference).
 - Assignments cover fundamental to advanced topics, including sorting, searching, linked lists, trees, and graphs.
 
-
-
+### 🔹 **One Stop University Student Office Management System**
+-A console-based ticketing system using linked lists, stacks, and queues to manage student queries. Integrated multiple sorting/searching algorithms, automated agent assignment, and resolution tracking with real-time performance analysis.
 
