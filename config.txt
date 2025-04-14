@@ -1,2 +1,0 @@
-Bubble Sort
-Binary Search
